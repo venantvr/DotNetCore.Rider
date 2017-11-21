@@ -1,0 +1,4 @@
+#!/bin/bash
+xrdb -merge /developer/.Xresources
+sh /opt/Rider-2017.2/bin/rider.sh
+

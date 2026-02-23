@@ -13,4 +13,4 @@ Will run the image...
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=cs,dotnet,vim,vscode&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=cs,dotnet,vscode&theme=dark)](https://skillicons.dev)
